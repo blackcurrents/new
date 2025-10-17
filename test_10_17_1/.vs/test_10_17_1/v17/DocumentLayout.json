@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LS\\Desktop\\new\\test_10_17_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5927B078-E7BB-4658-9F0C-AE593CFADF01}|test_10_17_1\\test_10_17_1.vcxproj|C:\\Users\\LS\\Desktop\\new\\test_10_17_1\\test_10_17_1\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5927B078-E7BB-4658-9F0C-AE593CFADF01}|test_10_17_1\\test_10_17_1.vcxproj|solutionrelative:test_10_17_1\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hello.c",
+              "DocumentMoniker": "C:\\Users\\LS\\Desktop\\new\\test_10_17_1\\test_10_17_1\\hello.c",
+              "RelativeDocumentMoniker": "test_10_17_1\\hello.c",
+              "ToolTip": "C:\\Users\\LS\\Desktop\\new\\test_10_17_1\\test_10_17_1\\hello.c",
+              "RelativeToolTip": "test_10_17_1\\hello.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-17T08:41:40.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
