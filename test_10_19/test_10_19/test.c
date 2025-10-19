@@ -23,7 +23,7 @@
 //	printf("%d", m);
 //	return 0;
 //}
-//ÈıÄ¿²Ù×÷·û
+//ä¸‰ç›®æ“ä½œç¬¦
 //#include<stdio.h>
 //void test()
 //{
@@ -42,7 +42,7 @@
 //	}
 //	return 0;
 //}
-//staticĞŞÊÎ¾Ö²¿±äÁ¿
+//staticä¿®é¥°å±€éƒ¨å˜é‡
 
 //#include<stdio.h>
 //extern int a;
@@ -51,7 +51,7 @@
 //	printf("%d", a);
 //	return 0;
 //}
-//È«¾Ö±äÁ¿ºÍextern
+//å…¨å±€å˜é‡å’Œextern
 //#include<stdio.h>
 //extern int add(int x, int y);
 //int main()
@@ -102,9 +102,10 @@
 //};
 //int main()
 //{
-//	struct Stu s = { "ÕÅÈı",23,"ÄĞ" };
-//	struct book b = { "¡¶cÓïÑÔ¡·","ÀîËÄ",66.6f };
+//	struct Stu s = { "å¼ ä¸‰",23,"ç”·" };
+//	struct book b = { "ã€Šcè¯­è¨€ã€‹","æå››",66.6f };
 //	printf("%s %d %s\n", s.name, s.age, s.sex);
 //	printf("%s %s %lf\n", b.name, b.author, b.price);
 //	return 0;
 //}
+//ç»“æ„ä½“
